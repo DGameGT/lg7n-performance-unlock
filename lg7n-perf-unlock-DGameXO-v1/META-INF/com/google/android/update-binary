@@ -1,5 +1,0 @@
-#!/sbin/sh
-SKIPUNZIP=1
-ui_print "- Performance Unlock for LG7n by DGameXO"
-ui_print "- CPU ceiling unlock"
-ui_print "- FPSGO boost enabled"
