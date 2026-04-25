@@ -1,6 +1,9 @@
 # Performance Unlock for LG7n
 **by DGameXO**
 
+
+![Screenshot](docs/screenshot_2026-04-25_13-53-15.png)
+
 ---
 
 ## Ini file apa?
